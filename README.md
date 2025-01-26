@@ -9,7 +9,7 @@ A desktop application built with Kotlin and JavaFX to fetch the latest news from
 
 ## Requirements
 - **JDK 17** or higher
-- **Gradle** or **Maven** (for building the project)
+- **Gradle** (for building the project)
 
 # Purpose
 
